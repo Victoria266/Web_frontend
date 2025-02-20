@@ -20,4 +20,4 @@
 -   [Завершение интерфейса модератора в React (лаб 8)](https://github.com/Victoria266/Web_frontend/tree/admin-interface)
   
 ## Мобильное приложение 
-- React Native (https://github.com/Victoria266/Web_frontend/tree/react_native_app)
+- [React Native ](https://github.com/Victoria266/Web_frontend/tree/react_native_app)
