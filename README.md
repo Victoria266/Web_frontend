@@ -21,3 +21,4 @@
   
 ## Мобильное приложение 
 - [React Native ](https://github.com/Victoria266/Web_frontend/tree/react_native_app)
+- [Tauri Android](https://github.com/Victoria266/Web_frontend/tree/tauri_android)
